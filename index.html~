@@ -1,0 +1,5 @@
+<script src="esprima.js"></script>
+<script src="js-yaml.min.js"></script>
+<script type="text/javascript">
+var doc = jsyaml.load('greeting: hello\nname: world');
+</script>
